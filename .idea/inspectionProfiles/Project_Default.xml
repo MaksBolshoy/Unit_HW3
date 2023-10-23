@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="unittest" />
+          <option value="task_1.even_odd_number.int" />
+          <option value="task_1.even_odd_number.bool" />
+          <option value="task_2.number_in_interval.int" />
+          <option value="task_2.number_in_interval.bool" />
+          <option value="task_3.test_admission.random" />
+          <option value="task_3.test_admission.all" />
+          <option value="task_3.test_admission.isinstance" />
+          <option value="task_3.test_admission.object" />
+          <option value="random" />
+          <option value="task_3.admission.str" />
+          <option value="task_3.admission.bool" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
